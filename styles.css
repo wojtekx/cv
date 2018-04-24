@@ -1,0 +1,191 @@
+
+#body{
+   
+    width: 100%;
+}
+.navigation{
+    margin-top: 50px;
+}
+p, h1, h5{  
+    text-align: center;
+    padding-top: 10px;
+    
+}
+ h1{
+     font-size: 40px;
+     
+}
+
+#header{
+    
+    background-color: blueviolet;
+   
+}
+#section{
+    height: 500px;
+    padding-top: 100px;
+}
+.row{
+    margin-right: 0;
+}
+
+.header1{
+
+    padding-left: 50px;
+    
+}
+.btn1{
+    margin-left: 70px;
+}
+.btn{
+    margin-top: 25px;
+    border-color: black;
+   
+}
+.radius{
+    border-radius: 100px;
+}
+.lg{
+    padding: 60px;
+   
+}
+.hidden{
+    margin-right: auto;
+}
+.navlink{
+    float: right;
+}
+.play{
+    width: 200px;
+    padding: 5px;
+}
+
+#section{
+    background-color: goldenrod;
+
+}
+.icon{
+    font-size: 80px;
+   color: rgb(218, 17, 17);
+   
+}
+
+#content{
+    background-color: gray;
+    
+}
+hr{
+    border-bottom-style: initial;
+    max-width: 200px;
+    border-color: rgb(100, 91, 91);
+    padding-bottom: 15px;
+ 
+}
+#box{
+    background-image: url(https://www.pcworld.pl/g1/news/thumbnails/3/0/301377_resize_770x1000.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 600px;
+    color: white;
+    padding-top: 100px;
+}
+.icon1{
+    background-image: red;
+    font-size: inherit;
+    
+}
+.social{
+    background-color: orange;
+    padding-top: 100px;
+    height: 400px;
+}
+.icon2{
+    color: white;
+    font-size: 50px;
+    
+    
+}
+a:hover{
+    text-decoration: none;
+}
+a{
+text-decoration:none;
+}
+.a1{
+    
+    width: 80px;
+    
+}
+.icon3{
+    color: white;
+    font-size: 50px;
+    
+    border: none;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+   
+}
+.icon4{
+    color: white;
+    
+    font-size: 50px;
+    border-radius: 100px;
+}
+.media{
+    margin: 15px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.footer{
+    background-color: #0c0c0c;
+    color: white;
+    padding: 10px;
+}
+.btn3{
+    
+    border: none;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    background-color: orangered;
+    margin-left: 20px;
+   
+    
+}
+.btn2{
+    
+    border: none;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    background-color: rgb(0, 162, 255);
+    
+    
+    
+}
+.btn5{
+    
+    border: none;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    background-color: rgb(4, 0, 255);
+    margin-left: 10px;
+  
+    
+}
+.btn3:hover{
+    background-color: rgb(248, 119, 14);
+}
+.btn2:hover{
+    background-color: rgb(63, 182, 252);
+}
+.btn5:hover{
+    background-color: rgb(37, 33, 223);
+}
+    
